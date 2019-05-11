@@ -1,2 +1,1 @@
-# ML_Pro
-This will contains projects/assignment on various topic starting from EDA,different algorithms etc .
+Haberman's Survival Dataset contains survival of patients who had undergone surgery for breast Cancer .
